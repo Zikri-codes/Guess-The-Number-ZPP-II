@@ -1,4 +1,4 @@
-#  Guess The Number
+# ”9Á6 Guess The Number
 
 **ZPP** (Zikri Practice Project) Series **II**
 
@@ -9,24 +9,24 @@
 
 ---
 
-##  Description
+## ”9Ý8 Description
 A simple terminal-based number guessing game written in Python.  
 The player chooses a difficulty level and tries to guess the randomly generated number.  
 
 ---
 
-##  Features
+## 7¿8 Features
 - **4** difficulty levels:  
-  - **Easy** (1–10)  
-  - **Normal** (1–20)  
-  - **Hard** (1–50)  
-  - **Extreme** (1–100)  
+  - **Easy** (1„1¤710)  
+  - **Normal** (1„1¤720)  
+  - **Hard** (1„1¤750)  
+  - **Extreme** (1„1¤7100)  
 - Option to **play again, change difficulty, or quit.**
 - Runs on **pure Python**, no external libraries required.  
 
 ---
 
-##  How to Run
+## •0‹4 How to Run
 1. **Clone** this repository:
     ```bash
     git clone https://github.com/zikri-codes/Guess-The-Number-ZPP-II.git
@@ -39,24 +39,26 @@ The player chooses a difficulty level and tries to guess the randomly generated 
 
 ---
 
-##  Screenshot
+## ”9â2 Screenshot
 
 <img src="screenshot.png" alt="Gameplay Screenshot" width="500"/>
 
 ---
 
-##  Project Structure
+## ”9Ü7 Project Structure
 
 ```
- guess-the-number.py   # Main game script
- LICENSE.txt           # MIT License
- README.md             # Project documentation
- screenshot.png        # Gameplay screenshot
+.
+©À©¤©¤ README.md            # Project  description
+©À©¤©¤ LICENSE              # MIT License
+©À©¤©¤ guess-the-number.py  # Main game script
+©¸©¤©¤ screenshot.png       # Gameplay screenshot
 ```
 
 ---
 
-##  License
+## ”9Ý0 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/zikri-codes/Guess-The-Number-ZPP-II/blob/main/LICENSE) file for details.
 
+"
