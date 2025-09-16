@@ -17,10 +17,10 @@ The player chooses a difficulty level and tries to guess the randomly generated 
 
 ## ✨ Features
 - **4** difficulty levels:  
-  - **Easy** (1�1�710)  
-  - **Normal** (1�1�720)  
-  - **Hard** (1�1�750)  
-  - **Extreme** (1�1�7100)  
+  - **Easy** (1 – 10)  
+  - **Normal** (1 – 20)  
+  - **Hard** (1 – 50)  
+  - **Extreme** (1 – 100)  
 - Option to **play again, change difficulty, or quit.**
 - Runs on **pure Python**, no external libraries required.  
 
@@ -30,7 +30,7 @@ The player chooses a difficulty level and tries to guess the randomly generated 
 1. **Clone** this repository:
     ```bash
     git clone https://github.com/zikri-codes/Guess-The-Number-ZPP-II.git
-    cd reponame
+    cd Guees-The-Number-ZPP-II
     ```
 2. Run the script with **Python**:
     ```bash
@@ -41,7 +41,7 @@ The player chooses a difficulty level and tries to guess the randomly generated 
 
 ## 📸 Screenshot
 
-<img src="screenshot.png" alt="Gameplay Screenshot" width="500"/>
+![game-script-screenshot](screenshot.png) 
 
 ---
 
